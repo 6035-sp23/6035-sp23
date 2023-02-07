@@ -92,6 +92,7 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 
 - TA
     - Alex Renda <renda@csail.mit.edu>
+    - Noah Raby <nbr@mit.edu>
 
 ### MIT Catalog Description
 
