@@ -7,6 +7,8 @@ The grading environment is used to build and run your submissions.
 The grading server is running Ubuntu 22.04, with the following software:
 - JDK: openjdk 17.0.5
 - Scala: 2.11.12
+- Scala: 3.2.2 (with binaries `scala3`, `scala3-compiler`)
+- sbt: 1.8.2
 - Go: 1.19.5
 - Ant: 1.10.7
 - Python: 3.10.6
