@@ -25,7 +25,7 @@ You may not make any extensions that change the semantics of legal programs or t
 \section{Changes}
 
 \begin{itemize}
-\item None yet!
+\item \textbf{2023-02-09}: Clarified that the ternary operator is right associative.
 \end{itemize}
 
 \section{Lexical Considerations}
@@ -339,8 +339,7 @@ The \decaf|return| statement causes control to exit the current method, returnin
 \subsection{Expressions}
 
 Expressions follow the normal rules for evaluation.
-In the absence of other constraints, operators with the same precedence are parsed from left to right.
-Parentheses may be used to override normal precedence.
+All binary operators are left associative, and the ternary operator is right associative.
 
 A location expression evaluates to the value contained by the location.
 
