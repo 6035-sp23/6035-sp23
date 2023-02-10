@@ -33,8 +33,8 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 
 |                 | Monday                                | Tuesday                                 | Wednesday                                                                                | Thursday                                                          | Friday                                                                 |
 |:---------------:|:-------------------------------------:|:---------------------------------------:|:----------------------------------------------------------------------------------------:|:-----------------------------------------------------------------:|:----------------------------------------------------------------------:|
-| `02/06 - 02/10` | LOGISTICS FORM <br/> [L:intro][lec01] | [L: regular expressions][lec02]         | [L: regular expressions][lec02]                                                          | [L: grammars & parse trees][lec02]                                | [P1 RELEASE][P1 RELEASE]  <br/> [L: top-down parsing][lec03]           |
-| `02/13 - 02/17` | [L: top-down parsing][lec03]          | [L: top-down parsing][lec03]            | [L: top-down parsing][lec03]                                                             | [L: shift-reduce parsing][lec04]                                  | [L: shift-reduce parsing][lec04]                                       |
+| `02/06 - 02/10` | LOGISTICS FORM <br/> [L:intro][lec01] | [L: regular expressions][lec02]         | [L: regular expressions][lec02]                                                          | [L: grammars & parse trees][lec02]                                | [P1 RELEASE][P1 RELEASE]  <br/> [L: shift-reduce parsing][lec03]       |
+| `02/13 - 02/17` | [L: shift-reduce parsing][lec03]      | [L: shift-reduce parsing][lec03]        | [L: top-down parsing][lec04]                                                             | [L: top-down parsing][lec04]                                      | [L: top-down parsing][lec04]                                           |
 | `02/20 - 02/24` | Presidents' Day Holiday               | [L: Intermediate Representation][lec05] | [L: Intermediate Representation][lec05]                                                  | [L:semantics][lec06]                                              | __P1 DUE @ 6:00PM__ <br/> [P2 RELEASE][P2 RELEASE]<br/>                |
 | `02/27 - 03/03` | [L:codegen][lec07]                    | [L:codegen][lec07]                      | SUBMIT TEAM <br/>[L:codegen][lec07]                                                      | [L:codegen][lec07]                                                |                                                                        |
 | `03/06 - 03/10` |                                       |                                         |                                                                                          |                                                                   | __P2 DUE @ 6:00PM__ <br/> [P3 RELEASE][P3 RELEASE] <br/> ADD DATE<br/> |
@@ -53,8 +53,8 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 <!--- lecture slides --->
 [lec01]: materials/lecture/lec01-Introduction.pdf
 [lec02]: materials/lecture/lec02-RegularExpressionsAndGrammars.pdf
-[lec03]: materials/lecture/lec03-top-down-parsing.pdf
-[lec04]: materials/lecture/lec04-shift-reduce-parsing.pdf
+[lec03]: materials/lecture/lec03-shift-reduce-parsing.pdf
+[lec04]: materials/lecture/lec04-top-down-parsing.pdf
 [lec05]: materials/lecture/lec05-intermediate-representation.pdf
 [lec06]: materials/lecture/lec06-semantic-analysis.pdf
 [lec07]: materials/lecture/lec07-unoptimized-codegen.pdf
