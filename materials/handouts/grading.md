@@ -12,9 +12,12 @@ The grading server is running Ubuntu 22.04, with the following software:
 - Go: 1.19.5
 - Ant: 1.10.7
 - Rust: 1.6.7
-  - rustc 1.67.1 (d5a82bbd2 2023-02-07)
-  - cargo 1.67.1 (8ecd4f20a 2023-01-10)
-  - rustup 1.25.2 (17db695f1 2023-02-01)
+  - rustc 1.67.1
+  - cargo 1.67.1
+  - rustup 1.25.2
+- gcc/g++:  11.3.0
+- Bison: 3.8.2
+- flex: 2.6.4
 - Python: 3.10.6
 - bash: 5.0.17
 
