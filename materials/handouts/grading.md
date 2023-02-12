@@ -36,3 +36,7 @@ When you push to the `phaseN-submission` branch (with `N` replaced by the phase 
 The autograder is shared (round-robin) between all students, and we expect that it will be busy around the deadline. You should validate that your submission works on the autograder well before the deadline.
 
 **DO NOT FORCE PUSH TO THE phaseN-submission BRANCH.** In the case that there is an issue with the grading server, we will re-run pushes that were previously graded. Force pushing will remove these commits. Broadly, it is considered a violation of academic integrity to tamper with the git history. If there is a technical reason that you must force push, please contact the TAs.
+
+# Changes to private test cases
+
+- 2/12/23 3:00PM: fixed a bug in one private scanner test
