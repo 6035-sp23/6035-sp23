@@ -41,7 +41,8 @@ If you're using Go, follow [the installation instructions on Go's website](https
 If you are on Mac, the equivalent commands would look like this:
 
 ```
-brew install --cask adoptopenjdk17
+brew tap homebrew/cask-versions
+brew install --cask temurin17
 ```
 If you run into trouble because you have multiple openjdk versions installed, see this [article](https://medium.com/@devkosal/switching-java-jdk-versions-on-macos-80bc868e686a) about switching between the different versions of java on MacOS.
 
