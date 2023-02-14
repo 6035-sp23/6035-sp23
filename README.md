@@ -92,6 +92,9 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 
 - TA
     - Alex Renda <renda@csail.mit.edu>
+        - Office Hours: 36-144
+            - Monday 5-6pm
+            - Tuesday 6-7pm
     - Noah Raby <nbr@mit.edu>
 
 ### MIT Catalog Description
