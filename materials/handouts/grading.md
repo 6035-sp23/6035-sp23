@@ -11,7 +11,7 @@ The grading server is running Ubuntu 22.04, with the following software:
 - sbt: 1.8.2
 - Go: 1.19.5
 - Ant: 1.10.7
-- Rust: 1.6.7
+- Rust: 1.67.1
   - rustc 1.67.1
   - cargo 1.67.1
   - rustup 1.25.2
