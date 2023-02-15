@@ -59,4 +59,16 @@ Make sure the environment variable `SCALA_HOME` is set to "/usr/local/opt/scala@
 
 If you're using Go, follow [the installation instructions on Go's website](https://golang.org/doc/install).
 
+## Athena
+
+To install Java 17:
+```
+mkdir -p ~/6035-deps
+pushd ~/6035-deps
+curl -L https://download.oracle.com/java/17/archive/jdk-17.0.6_linux-x64_bin.tar.gz | tar xz
+echo "export PATH=\"$(pwd)/jdk-17.0.6/bin:${PATH}\"" >> ~/.bash_environment
+export "PATH=$(pwd)/jdk-17.0.6/bin:${PATH}"
+popd
+```
+
 [^1]: While the class was traditionally run on Athena, we recommend against using Athena this semester. The dialup can be slow and isn't suited for computationally intensive work like optimizing programs.
