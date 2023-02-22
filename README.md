@@ -96,6 +96,9 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
             - Monday 5-6pm
             - Tuesday 6-7pm
     - Noah Raby <nbr@mit.edu>
+        - Office Hours: 36-156
+            - Wednesday 5-6pm
+            - Thursday 6-7pm
 
 ### MIT Catalog Description
 
